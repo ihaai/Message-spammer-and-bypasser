@@ -43,10 +43,141 @@ namespace MessageSpammer
 
         private void spammertimer_Tick(object sender, EventArgs e)
         {
-            if (GetAsyncKeyState(Keys.F6) !=0 )
+            if (comboBox1.SelectedIndex == 0)
             {
-                SendKeys.Send(MessageSelectOutput.Text);
-                SendKeys.Send("{ENTER}");
+                if (GetAsyncKeyState(Keys.F1) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 1)
+            {
+                if (GetAsyncKeyState(Keys.F2) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 2)
+            {
+                if (GetAsyncKeyState(Keys.F3) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 3)
+            {
+                if (GetAsyncKeyState(Keys.F4) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 4)
+            {
+                if (GetAsyncKeyState(Keys.F5) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 5)
+            {
+                if (GetAsyncKeyState(Keys.F6) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 6)
+            {
+                if (GetAsyncKeyState(Keys.F7) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 7)
+            {
+                if (GetAsyncKeyState(Keys.F8) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 8)
+            {
+                if (GetAsyncKeyState(Keys.F9) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 9)
+            {
+                if (GetAsyncKeyState(Keys.F10) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 10)
+            {
+                if (GetAsyncKeyState(Keys.F11) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 11)
+            {
+                if (GetAsyncKeyState(Keys.F12) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 12)
+            {
+                if (GetAsyncKeyState(Keys.F13) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 13)
+            {
+                if (GetAsyncKeyState(Keys.F14) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 14)
+            {
+                if (GetAsyncKeyState(Keys.F15) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 15)
+            {
+                if (GetAsyncKeyState(Keys.Alt) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
+            }
+            if (comboBox1.SelectedIndex == 16)
+            {
+                if (GetAsyncKeyState(Keys.Tab) != 0)
+                {
+                    SendKeys.Send(MessageSelectOutput.Text);
+                    SendKeys.Send("{ENTER}");
+                }
             }
         }
 
