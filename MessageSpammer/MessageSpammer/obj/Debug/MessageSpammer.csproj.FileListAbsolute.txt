@@ -1,0 +1,10 @@
+C:\Users\hrist\source\repos\MessageSpammer\MessageSpammer\bin\Debug\MessageSpammer.exe.config
+C:\Users\hrist\source\repos\MessageSpammer\MessageSpammer\bin\Debug\MessageSpammer.exe
+C:\Users\hrist\source\repos\MessageSpammer\MessageSpammer\bin\Debug\MessageSpammer.pdb
+C:\Users\hrist\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.csprojAssemblyReference.cache
+C:\Users\hrist\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.Form1.resources
+C:\Users\hrist\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.Properties.Resources.resources
+C:\Users\hrist\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.csproj.GenerateResource.cache
+C:\Users\hrist\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.exe
+C:\Users\hrist\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.pdb
